@@ -22,7 +22,7 @@ hr {border-color:#a5dcfa}
 @media(max-width:600px){.block-container{padding:1rem .8rem} [data-testid="stMetric"]{padding:12px}}
 </style>""",unsafe_allow_html=True)
 
-st.title('StatVista • Sky Blue Edition')
+st.title('StatVista')
 st.caption('Dashboard Interaktif • Statistika Deskriptif | UTS Matematika 1B')
 st.info('✨ Unggah Excel/CSV, pilih variabel, eksplorasi grafik, dan unduh hasil analisis dengan mudah!')
 
